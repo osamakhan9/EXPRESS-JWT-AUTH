@@ -1,0 +1,27 @@
+{
+  "name": "express-jwt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamakhan9/EXPRESS-JWT-AUTH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamakhan9/EXPRESS-JWT-AUTH/issues"
+  },
+  "homepage": "https://github.com/osamakhan9/EXPRESS-JWT-AUTH#readme",
+  "dependencies": {
+    "argon2": "^0.30.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20"
+  }
+}
